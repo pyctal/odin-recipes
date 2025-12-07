@@ -1,5 +1,10 @@
 # Odin Recipes
 
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Focus](https://img.shields.io/badge/Focus-Git_Workflow_%26_HTML_Structure-blue)
+
+## Description
+
 This project is a basic recipe website built as part of The Odin Project's Foundations course. The website consists of a main landing page with links to specific recipes.
 
 The purpose of this project is to demonstrate proficiency in basic HTML structure, element usage, and file management within a Git workflow. Note that this project uses HTML only, so there is no CSS styling applied.
